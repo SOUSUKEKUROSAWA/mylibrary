@@ -1,0 +1,38 @@
+# バイトコード
+__pycache__/
+*.py[cod]
+*.pyo
+
+# データベース
+*.sqlite3
+db.sqlite3
+
+# 環境設定
+.env
+
+# 仮想環境
+venv/
+
+# IDE/エディタ
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# 静的ファイル
+staticfiles/
+static/
+
+# ユーザ生成のファイル
+media/
+
+# テスト関連
+.coverage
+htmlcov/
+
+# 各種ログファイル
+*.log
+
+# MacのDS_Storeファイル
+.DS_Store
